@@ -1,1 +1,2 @@
-print(myvar)
+
+# The tail() method returns the heade
